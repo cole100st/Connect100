@@ -8,8 +8,7 @@
 
 # :bulb:__Téléchargement__ 
 
-- [100STConnect]([https://github.com/cole100st/Teste-/edit/main/README.md](https://github.com/cole100st/Teste-/releases/tag/100STConnect))
-
+- [100STConnect](https://github.com/cole100st/Teste-/releases/tag/100STConnect)
 # :computer:__Installation__
 
 ** 1 - Télécharger le 100STConnect.dll**
